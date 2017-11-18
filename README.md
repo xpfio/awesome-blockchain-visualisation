@@ -43,6 +43,7 @@ List of content
 
 # Research Papers
 * [Visualizing Dynamic Bitcoin Transaction Patterns](http://online.liebertpub.com/doi/pdf/10.1089/big.2015.0056)
+* [BitConeView: Visualization of Flows in the Bitcoin Transaction Graph](http://ieeexplore.ieee.org/document/7312773/)
 
 
 # Markets
